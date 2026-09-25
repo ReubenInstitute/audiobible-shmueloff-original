@@ -1,0 +1,9 @@
+Package: audiobible-shmueloff-original
+Version: 0.1
+Section: sound
+Priority: optional
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Description: Abraham Shmueloff's original voice, split per verse
+ Per-verse split of Abraham Shmueloff's original recordings, split from
+ audiobible-shmueloff-source.
