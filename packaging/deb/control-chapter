@@ -1,0 +1,9 @@
+Package: %PKG%
+Version: %VERSION%
+Section: sound
+Priority: optional
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Description: Abraham Shmueloff's original voice, book %BOOK% chapter %CHAPTER%
+ Per-verse split of Abraham Shmueloff's original recordings, split from
+ audiobible-shmueloff-source, book %BOOK% chapter %CHAPTER% only.
